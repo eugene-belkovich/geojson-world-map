@@ -18,5 +18,5 @@ import WorldData from 'geojson-world-map';
 
 ### Umd link
 ```
-https://unpkg.com/geojson-world-map@0.0.1/umd/geojson-world-map.min.js
+https://unpkg.com/geojson-world-map@0.0.2/umd/geojson-world-map.min.js
 ```
